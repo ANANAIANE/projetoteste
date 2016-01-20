@@ -1,1 +1,7 @@
-public class Usuario {}
+public class Usuario {
+
+String username;
+int idade;
+
+
+}
